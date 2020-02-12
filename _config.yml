@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: My website
+title: Pedro's DataLab
 
 # Short description of your site
 description: A virtual proof that I'm awesome
@@ -72,7 +72,6 @@ social-network-links:
   linkedin: pedro-toledo
   github: pltoledo
   email: "pedroltoledo@hotmail.com"
-  medium: @pltoledo
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
