@@ -1,7 +1,5 @@
 Cluster Analysis - Basketball Positions
 ================
-Pedro Toledo
-February 12, 2020
 
 This is the documentation of the study on the true positions in today’s
 basketball, using cluster analysis. The full article detailing the
