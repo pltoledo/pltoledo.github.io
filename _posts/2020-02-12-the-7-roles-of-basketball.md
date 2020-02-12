@@ -1,4 +1,4 @@
-Cluster Analysis - Basketball Positions
+A study of Basketball Positions using Cluster Analysis
 ================
 
 This is the documentation of the study on the true positions in today’s
@@ -181,7 +181,7 @@ ggplot(res, aes(x = CENTERS, y = VARIAB)) +  #Elbow Plot
   geom_point() 
 ```
 
-![](Cluster-Analysis---Basketball-Positions_files/figure-gfm/cluster-1.png)<!-- -->
+![](Cluster-Analysis---Basketball-Positions_files/figure-gfm/cluster-1.png)
 
 ``` r
 set.seed(111)
