@@ -3,6 +3,8 @@ layout: page
 title: About me
 ---
 
+<div id="aboutme-section">
+
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
 I´m currently a <strong>Statistics</strong> undergraduate in Universidade Federal de Minas Gerais, Brasil. 
@@ -15,5 +17,7 @@ Although I'm just a beginner, I enjoy a lot writing code for data analysis, visu
 
 <p class="about-text">
 <span class="fa fa-heart about-icon"></span>
-I'm addicted to sports, especially football (the <strong>real</strong> one, not the handegg's) and basketball. Love hanging out with my friends and family, getting into useless debates and learning new things!
+I'm addicted to sports, especially football (the <strong>real</strong> one, not handegg) and basketball. Love hanging out with my friends and family, getting into useless debates and learning new things!
 </p>
+
+</div>
