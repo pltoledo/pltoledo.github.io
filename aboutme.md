@@ -18,7 +18,7 @@ Although I'm just a beginner, I enjoy a lot writing code for data analysis, visu
 
 <p class="about-text">
 <span class="fa fa-heart about-icon"></span>
-I'm addicted to sports, especially football (the <strong>real</strong> one, not handegg) and basketball. Love hanging out with my friends and family, getting into useless debates and learning new things!
+I'm addicted to sports, especially <strong>football</strong> (the real one, not handegg) and basketball. Love hanging out with my friends and family, getting into useless debates and learning new things!
 </p>
 
 </div>
