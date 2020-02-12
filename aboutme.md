@@ -1,16 +1,19 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+<p class="about-text">
+<span class="fa fa-graduation-cap about-icon"></span>
+I´m currently a <strong>Statistics</strong> undergraduate in Universidade Federal de Minas Gerais, Brasil. 
+</p>
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+<p class="about-text">
+<span class="fa fa-code about-icon"></span>
+Although I'm just a beginner, I enjoy a lot writing code for data analysis, visualization and stuff that makes my life easier. I'm a R lover, but eager to learn pretty much anything data-related.
+</p>
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+<p class="about-text">
+<span class="fa fa-heart about-icon"></span>
+I'm addicted to sports, especially football (the <strong>real</strong> one, not the handegg's) and basketball. Love hanging out with my friends and family, getting into useless debates and learning new things!
+</p>
