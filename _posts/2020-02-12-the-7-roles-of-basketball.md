@@ -262,7 +262,7 @@ cluster_graph <- ggplot(df_cluster_plot, aes(x = PC1, y = PC2, fill = cluster)) 
 cluster_graph
 ```
 
-![](img/the-7-roles-of-basketball/viz-1.png)<!-- -->
+![](/img/the-7-roles-of-basketball/viz-1.png)<!-- -->
 
 Some graphs showing the distribution of the roles and it’s relation to
 the original positions:
@@ -314,7 +314,7 @@ position_graph <- ggplot(position_count, aes(x = reorder(pos, prop), y = prop, f
 position_graph + role_graph
 ```
 
-![](_posts/Cluster-Analysis---Basketball-Positions_files/figure-gfm/viz2-1.png)<!-- -->
+![](/img/the-7-roles-of-basketball/viz2-1.png)<!-- -->
 
 ``` r
 # Distribution of Positions on each Role
@@ -350,7 +350,7 @@ positions_by_role <- ggplot(df, aes(x = reorder(cluster, count), y = perc,
 positions_by_role
 ```
 
-![](_posts/Cluster-Analysis---Basketball-Positions_files/figure-gfm/viz3-1.png)<!-- -->
+![](/img/the-7-roles-of-basketball/viz3-1.png)<!-- -->
 
 ``` r
 # Roles Proportion per Team
@@ -397,7 +397,7 @@ role_team_graph <- ggplot(data = prop_role_team,
 role_team_graph
 ```
 
-![](_posts/Cluster-Analysis---Basketball-Positions_files/figure-gfm/viz4-1.png)<!-- -->
+![](/img/the-7-roles-of-basketball/viz4-1.png)<!-- -->
 
 Finally, here are the average of points, assists and rebounds per role,
 alongside the league’s average for comparison:
@@ -470,8 +470,8 @@ rebounds_graph <- ggplot(cluster_averages, aes(x = reorder(cluster, treb_mean), 
            alpha = 0.5)
 ```
 
-![](_posts/Cluster-Analysis---Basketball-Positions_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
+![](/img/the-7-roles-of-basketball/unnamed-chunk-1-1.png)<!-- -->
 
-![](_posts/Cluster-Analysis---Basketball-Positions_files/figure-gfm/unnamed-chunk-2-1.png)<!-- -->
+![](/img/the-7-roles-of-basketball/unnamed-chunk-2-1.png)<!-- -->
 
-![](_posts/Cluster-Analysis---Basketball-Positions_files/figure-gfm/unnamed-chunk-3-1.png)<!-- -->
+![](/img/the-7-roles-of-basketball/unnamed-chunk-3-1.png)<!-- -->
