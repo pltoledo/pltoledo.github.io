@@ -184,7 +184,7 @@ ggplot(res, aes(x = CENTERS, y = VARIAB)) +  #Elbow Plot
   geom_point() 
 ```
 
-![Elbow Plot](img/the-7-roles-of-basketball/cluster-1.png)
+![Elbow Plot](img/the-7-roles-of-basketball/cluster-1.png)<!-- -->
 
 ``` r
 set.seed(111)
@@ -262,7 +262,7 @@ cluster_graph <- ggplot(df_cluster_plot, aes(x = PC1, y = PC2, fill = cluster)) 
 cluster_graph
 ```
 
-![](_posts/Cluster-Analysis---Basketball-Positions_files/figure-gfm/viz-1.png)<!-- -->
+![](img/the-7-roles-of-basketball/viz-1.png)<!-- -->
 
 Some graphs showing the distribution of the roles and it’s relation to
 the original positions:
