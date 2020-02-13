@@ -184,7 +184,7 @@ ggplot(res, aes(x = CENTERS, y = VARIAB)) +  #Elbow Plot
   geom_point() 
 ```
 
-![](_posts/Cluster-Analysis---Basketball-Positions_files/figure-gfm/cluster-1.png)<!-- -->
+![Elbow Plot](img/the-7-roles-of-basketball/cluster-1.png)
 
 ``` r
 set.seed(111)
