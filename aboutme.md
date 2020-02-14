@@ -7,6 +7,11 @@ css: "/css/aboutme.css"
 <div id="aboutme-section">
 
 <p class="about-text">
+<span class="fas fa-map-marker-alt"></span>
+Belo Horioznte, Brasil. 
+</p>
+
+<p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
 I´m currently a <strong>Statistics</strong> undergraduate in Universidade Federal de Minas Gerais (UFMG), Brasil. 
 </p>
