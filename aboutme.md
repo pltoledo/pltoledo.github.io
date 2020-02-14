@@ -7,7 +7,7 @@ css: "/css/aboutme.css"
 <div id="aboutme-section">
 
 <p class="about-text">
-<span class="fa fa-map-marker-alt"></span>
+<span class="fa fa-map-marker-alt about icon"></span>
 Belo Horioznte, Brasil. 
 </p>
 
